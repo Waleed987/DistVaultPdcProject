@@ -1,0 +1,13 @@
+# Compiled Java class files
+bin/
+src/*.class
+lib/
+
+# IDE config
+.vscode/
+
+# Temp files
+test.txt
+
+
+
