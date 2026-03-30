@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class StorageNode {
+public class StorageNodeNULL {
     public static void main(String[] args) {
         // Require an ID so we can tell the workers apart in the terminal
         if (args.length < 1) {
