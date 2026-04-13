@@ -1,0 +1,81 @@
+===================================================
+   DIST-VAULT MEDICAL RECORDS SYSTEM
+   LABORATORY REPORT — IRON STUDIES & THYROID
+===================================================
+
+Patient ID    : P002
+Patient Name  : Jane Smith
+Date of Birth : 1990-07-22
+Doctor ID     : doctor1
+Collected     : 2026-04-13 08:30 AM
+Reported      : 2026-04-13 02:15 PM
+Record Type   : Lab Report
+Lab Ref No.   : DV-LAB-2026-04130088
+
+---------------------------------------------------
+IRON STUDIES
+---------------------------------------------------
+
+Serum Iron          : 48 μg/dL         [Normal: 60–170]  ⚠ LOW
+TIBC                : 420 μg/dL        [Normal: 240–450]  ↑ HIGH-NORMAL
+Transferrin Sat.    : 11.4%            [Normal: 20–50%]   ⚠ LOW
+Serum Ferritin      : 8 ng/mL          [Normal: 12–150]   ⚠ LOW
+
+INTERPRETATION:
+  Pattern consistent with IRON DEFICIENCY.
+  Low ferritin confirms depleted iron stores.
+  Suggest dietary supplementation and/or oral iron therapy.
+
+---------------------------------------------------
+COMPLETE BLOOD COUNT (CBC)
+---------------------------------------------------
+
+Hemoglobin          : 10.8 g/dL        [Normal: 12.0–16.0] ⚠ LOW
+Hematocrit          : 33%              [Normal: 36–48%]     ⚠ LOW
+RBC Count           : 3.9 million/μL   [Normal: 3.8–5.2]   BORDERLINE
+MCV                 : 72 fL            [Normal: 80–100]     ⚠ LOW (Microcytic)
+MCH                 : 24 pg            [Normal: 27–33]      ⚠ LOW
+MCHC                : 30 g/dL          [Normal: 32–36]      ⚠ LOW
+RDW                 : 16.5%            [Normal: 11.5–14.5]  ⚠ HIGH
+WBC Count           : 6,800 /μL        [Normal: 4,500–11,000] NORMAL
+Platelet Count      : 300,000 /μL      [Normal: 150,000–400,000] NORMAL
+
+INTERPRETATION:
+  Microcytic, hypochromic anemia pattern consistent with iron-
+  deficiency anemia. No leukocytosis; no thrombocytopenia.
+
+---------------------------------------------------
+THYROID FUNCTION PANEL
+---------------------------------------------------
+
+TSH (Thyroid-Stim.H): 2.8 mIU/L       [Normal: 0.4–4.0]   NORMAL
+Free T4             : 1.1 ng/dL        [Normal: 0.8–1.8]   NORMAL
+Free T3             : 3.2 pg/mL        [Normal: 2.3–4.2]   NORMAL
+
+INTERPRETATION:
+  Euthyroid state. No evidence of hypothyroidism or
+  hyperthyroidism. Fatigue symptoms unlikely thyroid-related.
+
+---------------------------------------------------
+CLINICAL CORRELATION
+---------------------------------------------------
+
+Combined findings support a diagnosis of:
+  ► Iron-Deficiency Anemia (confirmed)
+  ► Euthyroid (thyroid not contributing to symptoms)
+
+Recommended management:
+  1. Ferrous sulfate 325 mg once daily with vitamin C
+  2. Dietary counseling (iron-rich foods: red meat, legumes, leafy greens)
+  3. Repeat CBC and iron studies in 8 weeks
+  4. Investigate underlying cause if anemia does not resolve
+
+---------------------------------------------------
+PATHOLOGIST NOTES
+---------------------------------------------------
+
+Reviewed by    : Lab Pathology Dept.
+Date Reviewed  : 2026-04-13
+Digital Stamp  : [DIST-VAULT-VERIFIED]
+Report Status  : FINAL — CRITICAL VALUES NOTIFIED TO DOCTOR
+===================================================

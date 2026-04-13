@@ -1,0 +1,94 @@
+===================================================
+   DIST-VAULT MEDICAL RECORDS SYSTEM
+   RADIOLOGY REPORT — CHEST X-RAY
+===================================================
+
+Patient ID      : P003
+Patient Name    : Ali Hassan
+Date of Birth   : 1978-11-05
+Referring Doctor: doctor1
+Radiologist     : Dr. Radiology-Dept
+Study Date      : 2026-04-13
+Record Type     : X-Ray
+Study           : Chest X-Ray (PA + Lateral views)
+Accession No.   : DV-XR-2026-04130047
+
+---------------------------------------------------
+CLINICAL INDICATION
+---------------------------------------------------
+
+Patient presents with a 2-week history of productive cough,
+low-grade fever, and right-sided pleuritic chest pain.
+Rule out pneumonia / pleural effusion.
+
+---------------------------------------------------
+TECHNIQUE
+---------------------------------------------------
+
+Standard PA (posteroanterior) and lateral projections of
+the chest were obtained in full inspiration.
+No prior imaging available for comparison.
+
+---------------------------------------------------
+FINDINGS
+---------------------------------------------------
+
+LUNGS:
+  - Right lower lobe: Patchy airspace opacity consistent
+    with consolidation. Ill-defined borders.
+  - Left lung: Clear. No consolidation or pneumothorax.
+  - No pleural effusion identified bilaterally.
+  - No pneumothorax.
+  - Lung volumes appear mildly reduced on the right.
+
+HEART:
+  - Cardiac silhouette: Normal size (cardiothoracic ratio ~0.48)
+  - No cardiomegaly.
+  - Mediastinum: Not widened.
+
+BONES & SOFT TISSUES:
+  - Ribs: Intact, no fractures identified.
+  - Spine: No acute osseous abnormality.
+  - Soft tissues: Unremarkable.
+
+DIAPHRAGM:
+  - Right hemidiaphragm: Mildly elevated.
+  - Left hemidiaphragm: Normal.
+  - No subdiaphragmatic free air.
+
+PLEURA:
+  - No pleural thickening or effusion.
+
+---------------------------------------------------
+IMPRESSION
+---------------------------------------------------
+
+1. RIGHT LOWER LOBE PNEUMONIA
+   Patchy consolidation in the right lower lobe is consistent
+   with community-acquired pneumonia. Clinical correlation
+   recommended.
+
+2. No pleural effusion or pneumothorax.
+
+3. Cardiac size and mediastinum within normal limits.
+
+---------------------------------------------------
+RECOMMENDATIONS
+---------------------------------------------------
+
+- Correlate with clinical findings and laboratory results
+  (CBC, CRP, blood cultures).
+- Consider antibiotic therapy as appropriate.
+- Follow-up chest X-ray in 4–6 weeks to confirm resolution.
+- If symptoms worsen, CT chest may be warranted.
+
+---------------------------------------------------
+RADIOLOGIST SIGNATURE
+---------------------------------------------------
+
+Radiologist     : Dr. Radiology-Dept
+Department      : Diagnostic Radiology
+Date Signed     : 2026-04-13 18:45:00
+Digital Stamp   : [DIST-VAULT-VERIFIED]
+Report Status   : FINAL
+===================================================

@@ -1,0 +1,77 @@
+===================================================
+   DIST-VAULT MEDICAL RECORDS SYSTEM
+   PRESCRIPTION / MEDICATION ORDER
+===================================================
+
+Patient ID    : P001
+Patient Name  : John Doe
+Date of Birth : 1985-03-12
+Doctor ID     : doctor1
+Date Issued   : 2026-04-13
+Record Type   : Prescription
+Validity      : 30 days from issue date
+
+---------------------------------------------------
+PRESCRIPTION DETAILS
+---------------------------------------------------
+
+Rx #1
+  Drug Name   : Metformin Hydrochloride
+  Strength    : 500 mg
+  Form        : Tablet (immediate-release)
+  Dose        : 500 mg orally TWICE daily
+  Duration    : 90 days
+  Refills     : 2
+  Instructions: Take with meals to minimize GI upset.
+                Do NOT crush or chew.
+
+Rx #2
+  Drug Name   : Atorvastatin Calcium
+  Strength    : 20 mg
+  Form        : Tablet
+  Dose        : 20 mg orally ONCE daily (at bedtime)
+  Duration    : 90 days
+  Refills     : 2
+  Instructions: Avoid grapefruit juice.
+                Report any unexplained muscle pain immediately.
+
+Rx #3
+  Drug Name   : Lisinopril
+  Strength    : 10 mg
+  Form        : Tablet
+  Dose        : 10 mg orally ONCE daily (morning)
+  Duration    : 90 days
+  Refills     : 2
+  Instructions: Monitor BP weekly. Avoid potassium supplements
+                unless directed. May cause dry cough — report if severe.
+
+---------------------------------------------------
+ALLERGY ALERT
+---------------------------------------------------
+
+Known Allergies : NKDA (No Known Drug Allergies)
+Confirmed by    : Patient self-report + chart review
+
+---------------------------------------------------
+PHARMACY NOTES
+---------------------------------------------------
+
+Please dispense a 90-day supply of all three medications.
+Generic substitution is ALLOWED unless marked "Dispense As Written (DAW)."
+
+Patient education provided on:
+  - Purpose and side effects of each medication
+  - Importance of adherence
+  - When to seek emergency care
+
+---------------------------------------------------
+PHYSICIAN INFORMATION
+---------------------------------------------------
+
+Prescribing Physician : Dr. doctor1
+License Number        : PKM-2024-00412
+DEA Number            : [ON FILE]
+Contact               : doctor1@distvault.internal
+Date                  : 2026-04-13
+Digital Signature     : [DIST-VAULT-VERIFIED]
+===================================================

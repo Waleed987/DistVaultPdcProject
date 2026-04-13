@@ -1,0 +1,4 @@
+timestamp,user,role,operation,resource,result,details
+"2026-04-13 19:24:39","admin","ADMIN","LOGIN","-","SUCCESS",""
+"2026-04-13 19:26:53","admin","ADMIN","UPLOAD","patient_P001_blood_report.txt","SUCCESS","patientId=P001 chunks=1"
+"2026-04-13 19:27:55","admin","ADMIN","GET_LOCATIONS","F1","SUCCESS","file=patient_P001_blood_report.txt"

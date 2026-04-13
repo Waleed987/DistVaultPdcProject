@@ -1,0 +1,66 @@
+===================================================
+   DIST-VAULT MEDICAL RECORDS SYSTEM
+   PATIENT BLOOD TEST REPORT
+===================================================
+
+Patient ID    : P001
+Patient Name  : John Doe
+Date of Birth : 1985-03-12
+Doctor ID     : doctor1
+Report Date   : 2026-04-13
+Record Type   : Blood Test
+
+---------------------------------------------------
+COMPLETE BLOOD COUNT (CBC)
+---------------------------------------------------
+
+Hemoglobin          : 14.2 g/dL        [Normal: 13.5–17.5]
+Hematocrit          : 42%              [Normal: 41–53%]
+WBC Count           : 7,200 /μL        [Normal: 4,500–11,000]
+RBC Count           : 4.8 million/μL   [Normal: 4.5–5.9]
+Platelet Count      : 250,000 /μL      [Normal: 150,000–400,000]
+MCV                 : 88 fL            [Normal: 80–100]
+MCH                 : 29 pg            [Normal: 27–33]
+MCHC                : 33 g/dL          [Normal: 32–36]
+
+---------------------------------------------------
+COMPREHENSIVE METABOLIC PANEL (CMP)
+---------------------------------------------------
+
+Glucose             : 95 mg/dL         [Normal: 70–100]
+BUN (Blood Urea N.) : 18 mg/dL         [Normal: 7–20]
+Creatinine          : 0.9 mg/dL        [Normal: 0.6–1.2]
+eGFR                : >60              [Normal: >60]
+Sodium              : 140 mEq/L        [Normal: 136–145]
+Potassium           : 4.1 mEq/L        [Normal: 3.5–5.0]
+Chloride            : 102 mEq/L        [Normal: 98–107]
+CO2                 : 24 mEq/L         [Normal: 22–29]
+Calcium             : 9.5 mg/dL        [Normal: 8.5–10.5]
+Total Protein       : 7.2 g/dL         [Normal: 6.0–8.3]
+Albumin             : 4.0 g/dL         [Normal: 3.5–5.0]
+Total Bilirubin     : 0.8 mg/dL        [Normal: 0.1–1.2]
+ALT (SGPT)          : 28 U/L           [Normal: 7–40]
+AST (SGOT)          : 24 U/L           [Normal: 10–40]
+Alkaline Phosphatase: 75 U/L           [Normal: 44–147]
+
+---------------------------------------------------
+LIPID PANEL
+---------------------------------------------------
+
+Total Cholesterol   : 185 mg/dL        [Optimal: <200]
+LDL Cholesterol     : 110 mg/dL        [Optimal: <130]
+HDL Cholesterol     : 55 mg/dL         [Optimal: >40 male]
+Triglycerides       : 130 mg/dL        [Normal: <150]
+
+---------------------------------------------------
+CLINICAL NOTES
+---------------------------------------------------
+
+All values within normal reference ranges.
+No corrective action required at this time.
+Patient advised to maintain current diet and exercise routine.
+Follow-up CBC recommended in 12 months.
+
+Reviewed and approved by: Dr. doctor1
+Digital Signature      : [DIST-VAULT-VERIFIED]
+===================================================

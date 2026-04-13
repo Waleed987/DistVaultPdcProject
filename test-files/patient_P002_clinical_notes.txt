@@ -1,0 +1,118 @@
+===================================================
+   DIST-VAULT MEDICAL RECORDS SYSTEM
+   CLINICAL CONSULTATION NOTES
+===================================================
+
+Patient ID    : P002
+Patient Name  : Jane Smith
+Date of Birth : 1990-07-22
+Doctor ID     : doctor1
+Visit Date    : 2026-04-13
+Record Type   : Clinical Notes
+Specialty     : General Medicine
+
+---------------------------------------------------
+CHIEF COMPLAINT
+---------------------------------------------------
+
+Patient presents with persistent fatigue, mild shortness
+of breath on exertion, and occasional dizziness lasting
+approximately 3 weeks.
+
+---------------------------------------------------
+HISTORY OF PRESENT ILLNESS
+---------------------------------------------------
+
+Jane is a 35-year-old female who reports gradual onset of
+fatigue over the past 3 weeks. She denies any chest pain,
+palpitations, or syncope. Symptoms are aggravated by
+climbing stairs and moderate physical activity. She reports
+adequate sleep (7–8 hours/night) but feels unrefreshed.
+
+No recent travel history. No known sick contacts.
+No significant changes in diet or medications.
+
+---------------------------------------------------
+PAST MEDICAL HISTORY
+---------------------------------------------------
+
+- Iron-deficiency anemia (diagnosed 2022, treated)
+- Seasonal allergic rhinitis
+- No surgical history
+- No known drug allergies (NKDA)
+
+---------------------------------------------------
+FAMILY HISTORY
+---------------------------------------------------
+
+- Mother: Hypothyroidism, Hypertension
+- Father: Type 2 Diabetes Mellitus
+- Sibling: No significant illness
+
+---------------------------------------------------
+SOCIAL HISTORY
+---------------------------------------------------
+
+- Non-smoker
+- Occasional alcohol (1–2 drinks/week)
+- Software engineer, sedentary work environment
+- Exercises 2x/week (light walking)
+
+---------------------------------------------------
+REVIEW OF SYSTEMS
+---------------------------------------------------
+
+Constitutional   : Fatigue ✓, Weakness ✓, No fever
+Cardiovascular   : No chest pain, No palpitations
+Respiratory      : Mild dyspnea on exertion ✓
+GI               : No nausea, vomiting, or changes in bowel habits
+Musculoskeletal  : No joint pain
+Neurological     : Occasional dizziness ✓, No headache
+Psychiatric      : Mild work-related stress reported
+
+---------------------------------------------------
+PHYSICAL EXAMINATION
+---------------------------------------------------
+
+BP              : 118/76 mmHg
+HR              : 82 bpm (regular)
+RR              : 16 breaths/min
+Temp            : 98.4°F (36.9°C)
+SpO2            : 98% on room air
+Weight          : 62 kg
+Height          : 165 cm
+BMI             : 22.8 (Normal)
+
+General         : Alert, oriented x3, appears mildly fatigued
+HEENT           : Pale conjunctivae noted
+Cardiovascular  : S1 S2 regular, no murmurs
+Respiratory     : Clear to auscultation bilaterally
+Abdomen         : Soft, non-tender, no organomegaly
+
+---------------------------------------------------
+ASSESSMENT & PLAN
+---------------------------------------------------
+
+1. SUSPECTED IRON-DEFICIENCY ANEMIA (recurrence)
+   - Order CBC, serum ferritin, serum iron, TIBC
+   - Order thyroid panel (TSH, free T4) to rule out hypothyroidism
+   - If confirmed: restart ferrous sulfate 325 mg PO once daily
+   - Dietary counseling: increase iron-rich foods
+
+2. FATIGUE / DYSPNEA ON EXERTION
+   - Likely secondary to anemia
+   - Monitor with lab results
+
+3. FOLLOW-UP
+   - Return in 4 weeks or sooner if symptoms worsen
+   - Patient instructed on warning signs (syncope, tachycardia, chest pain)
+
+---------------------------------------------------
+PHYSICIAN SIGNATURE
+---------------------------------------------------
+
+Attending Physician : Dr. doctor1
+Department          : General Medicine
+Date                : 2026-04-13
+Digital Stamp       : [DIST-VAULT-VERIFIED]
+===================================================
